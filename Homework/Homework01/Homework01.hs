@@ -1,6 +1,7 @@
 
 -- Question 1
 -- Write a multiline comment below.
+add6numbers u v w x y z = u + v + w + x + y + z
 
 -- Question 2
 -- Define a function that takes a value and multiplies it by 3.
